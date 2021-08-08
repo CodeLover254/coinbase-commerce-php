@@ -1,6 +1,5 @@
-[![CircleCI](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master)
 # Coinbase Commerce
-**Note: This repository is not actively maintained.**
+**This is a fork updated to work with guzzle version 7**
 
 The official PHP library for the [Coinbase Commerce API](https://commerce.coinbase.com/docs/).
 
